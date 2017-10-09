@@ -1,0 +1,17 @@
+C:\TestProjects\AutoMapperTest\AutoMapperTest.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\TestProjects\AutoMapperTest\AutoMapperTest.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\TestProjects\AutoMapperTest\AutoMapperTest.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\TestProjects\AutoMapperTest\AutoMapperTest.Tests\bin\Debug\AutoMapperTest.Tests.dll
+C:\TestProjects\AutoMapperTest\AutoMapperTest.Tests\bin\Debug\AutoMapperTest.Tests.pdb
+C:\TestProjects\AutoMapperTest\AutoMapperTest.Tests\bin\Debug\AutoMapperTest.dll
+C:\TestProjects\AutoMapperTest\AutoMapperTest.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\TestProjects\AutoMapperTest\AutoMapperTest.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\TestProjects\AutoMapperTest\AutoMapperTest.Tests\bin\Debug\AutoMapper.dll
+C:\TestProjects\AutoMapperTest\AutoMapperTest.Tests\bin\Debug\AutoMapperTest.pdb
+C:\TestProjects\AutoMapperTest\AutoMapperTest.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\TestProjects\AutoMapperTest\AutoMapperTest.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\TestProjects\AutoMapperTest\AutoMapperTest.Tests\bin\Debug\AutoMapper.xml
+C:\TestProjects\AutoMapperTest\AutoMapperTest.Tests\obj\Debug\AutoMapperTest.Tests.csprojResolveAssemblyReference.cache
+C:\TestProjects\AutoMapperTest\AutoMapperTest.Tests\obj\Debug\AutoMapperTest.Tests.csproj.CoreCompileInputs.cache
+C:\TestProjects\AutoMapperTest\AutoMapperTest.Tests\obj\Debug\AutoMapperTest.Tests.dll
+C:\TestProjects\AutoMapperTest\AutoMapperTest.Tests\obj\Debug\AutoMapperTest.Tests.pdb

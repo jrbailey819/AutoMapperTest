@@ -1,0 +1,8 @@
+C:\TestProjects\AutoMapperTest\AutoMapperTest\bin\Debug\AutoMapperTest.dll
+C:\TestProjects\AutoMapperTest\AutoMapperTest\bin\Debug\AutoMapperTest.pdb
+C:\TestProjects\AutoMapperTest\AutoMapperTest\bin\Debug\AutoMapper.dll
+C:\TestProjects\AutoMapperTest\AutoMapperTest\bin\Debug\AutoMapper.xml
+C:\TestProjects\AutoMapperTest\AutoMapperTest\obj\Debug\AutoMapperTest.csprojResolveAssemblyReference.cache
+C:\TestProjects\AutoMapperTest\AutoMapperTest\obj\Debug\AutoMapperTest.csproj.CoreCompileInputs.cache
+C:\TestProjects\AutoMapperTest\AutoMapperTest\obj\Debug\AutoMapperTest.dll
+C:\TestProjects\AutoMapperTest\AutoMapperTest\obj\Debug\AutoMapperTest.pdb
